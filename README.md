@@ -1,1 +1,1 @@
-# react-project
+# coding-project-template
